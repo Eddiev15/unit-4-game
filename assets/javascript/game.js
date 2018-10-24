@@ -1,11 +1,3 @@
-// 4. add the 'No enemy here' text when attack button is clicked
-// 6. figure out how to implement the  'wounded' piece
-// -Look at changing the font to more readable
-// Add bootstrap class to change the hover state of characters
-// makeimg bigger to strecth entire character and make text white
-
-
-
 
 
 // Improvements to make
